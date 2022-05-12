@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Harshad Bhatia',
   tagline: 'This is my personal website. It doesnt contain much but will be populated as time goes on',
-  url: 'https://harshadbhatia.github.io',
+  url: 'https://harshadbhatia.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
+  deploymentBranch: 'gh-pages',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'harshadbhatia', // Usually your GitHub org/user name.
