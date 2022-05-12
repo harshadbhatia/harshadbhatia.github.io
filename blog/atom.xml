@@ -16,7 +16,7 @@
         <content type="html"><![CDATA[<p>This is my first blog marking start of the journey for many more to come !</p>]]></content>
         <author>
             <name>Harshad Bhatia</name>
-            <uri>https://github.com/harshadhbatia</uri>
+            <uri>https://github.com/harshadbhatia</uri>
         </author>
         <category label="hello" term="hello"/>
     </entry>
